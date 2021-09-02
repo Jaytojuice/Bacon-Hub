@@ -8,3 +8,6 @@ end
 if game.PlaceId == 142823291 then -- MM2
       loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jaytojuice/Bacon-Hub/main/Games/MM2'),true))() 
       end
+if game.PlaceId == 1962086868 then -- TOH
+      loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jaytojuice/Bacon-Hub/main/Games/TOH'),true))() 
+      end
